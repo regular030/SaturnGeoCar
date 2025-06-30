@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD2E001DZDR
+D Low-Capacitance 2-Channel +/-15kV ESD Protection Array for High-Speed Data Interfaces
+K
+F http://www.ti.com/lit/gpn/tpd2e001
+$ENDCMP
+#
+#End Doc Library

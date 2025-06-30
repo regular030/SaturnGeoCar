@@ -22,4 +22,5 @@
   (lib (name "DRV8300DPWR")(type "KiCad")(uri "${KIPRJMOD}/FilesNeeded/DRV8300DPWR")(options "")(descr ""))
   (lib (name "WJ126V-5.0-3P")(type "KiCad")(uri "${KIPRJMOD}/FilesNeeded/WJ126V-5.0-3P")(options "")(descr ""))
   (lib (name "SIM7600G")(type "KiCad")(uri "${KIPRJMOD}/FilesNeeded/SIM7600G")(options "")(descr ""))
+  (lib (name "TPD2E001DZDR")(type "KiCad")(uri "${KIPRJMOD}/FilesNeeded/TPD2E001DZDR")(options "")(descr ""))
 )
