@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC165NSR
+D 8-Bit Parallel-Load Shift Registers
+K
+F http://www.ti.com/lit/gpn/sn74hc165
+$ENDCMP
+#
+#End Doc Library

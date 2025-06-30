@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SHT30-ARP-B2.5KS
+D Humidity/Temperature Sensor Analog 8-Pin TDFN EP T/R
+K
+F https://www.arrow.com/en/products/sht30-arp-b2.5ks/sensirion-ag
+$ENDCMP
+#
+#End Doc Library
