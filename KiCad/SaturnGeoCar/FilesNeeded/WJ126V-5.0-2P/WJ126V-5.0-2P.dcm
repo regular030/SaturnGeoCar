@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP WJ126V-5.0-2P
-D P=5.0mm Screw terminal
-K
-F https://datasheet.lcsc.com/szlcsc/1912251633_Ningbo-Kangnex-Elec-WJ126V-5-0-2P_C8404.pdf
-$ENDCMP
-#
-#End Doc Library

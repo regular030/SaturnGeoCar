@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP X322540MPB4SI
-D SMD Crystal Resonators 40MHz +/-10ppm SMD-3225_4P RoHS
-K
-F https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322540MPB4SI_C9010.pdf
-$ENDCMP
-#
-#End Doc Library
